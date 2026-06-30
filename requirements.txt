@@ -1,0 +1,5 @@
+# Quantum, Honestly — course notebooks (Python 3.11+, developed on 3.13)
+numpy>=1.26
+scipy>=1.13
+matplotlib>=3.8
+jupyterlab>=4.0
